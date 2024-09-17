@@ -1,7 +1,6 @@
 # Image Compression Algorithms
 **Author**: Alexandru-Andrei Ionita    
 **Year**: 2022-2023  
-**Source Files**: `main.c`, `apply.h`, `case.h`, `crop.h`, `exitfile.h`, `histogram.h`, `load.h`, `save.h`, `select.h`, `struct.h`
 
 ## 1. **Image Compression Using Singular Value Decomposition (SVD)**
 
